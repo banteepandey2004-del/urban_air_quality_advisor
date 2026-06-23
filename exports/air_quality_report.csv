@@ -1,0 +1,26 @@
+City,Country,Time,PM2.5,PM10,Carbon Monoxide,Nitrogen Dioxide,Sulphur Dioxide,Ozone,UV Index,Risk Level,Recommendation
+Berlin,Germany,2026-06-14T00:00,3.7,7.5,120.0,4.0,0.6,57.0,0.0,Low,Outdoor activity is generally suitable.
+Hamburg,Germany,2026-06-14T00:00,3.4,8.5,120.0,7.7,1.3,51.0,0.0,Low,Outdoor activity is generally suitable.
+Berlin,Germany,2026-06-14T00:00,3.7,7.5,120.0,4.0,0.6,57.0,0.0,Low,Outdoor activity is generally suitable.
+Delhi,India,2026-06-14T00:00,127.1,353.0,1254.0,28.7,13.8,49.0,0.0,Very High,Avoid intense outdoor activity. Sensitive users should consider staying indoors.
+Berlin,Germany,2026-06-14T00:00,3.7,7.5,120.0,4.0,0.6,57.0,0.0,Low,Outdoor activity is generally suitable.
+Delhi,India,2026-06-14T00:00,127.1,353.0,1254.0,28.7,13.8,49.0,0.0,Very High,Avoid intense outdoor activity. Sensitive users should consider staying indoors.
+London,United Kingdom,2026-06-14T00:00,4.8,9.2,124.0,12.3,0.7,48.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+São Paulo,Brazil,2026-06-14T00:00,10.9,11.3,327.0,23.0,6.5,26.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+Paris,France,2026-06-14T00:00,7.7,12.6,128.0,13.0,1.4,49.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+New York,United States,2026-06-14T00:00,4.6,5.0,173.0,8.4,0.7,90.0,0.05,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+Munich,Germany,2026-06-14T00:00,5.9,9.0,102.0,5.2,0.4,46.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+Berlin,Germany,2026-06-23T00:00,4.4,6.6,118.0,10.6,1.8,52.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+Delhi,India,2026-06-23T00:00,73.8,210.5,323.0,52.8,20.4,17.0,0.0,Very High,Avoid intense outdoor activity. Sensitive users should consider staying indoors.
+London,United Kingdom,2026-06-23T00:00,6.7,11.6,119.0,16.5,1.1,58.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+São Paulo,Brazil,2026-06-23T00:00,9.6,9.8,247.0,32.0,8.7,51.0,0.0,High,"Reduce intense outdoor activity, especially for children, elderly people, and users with respiratory conditions."
+Paris,France,2026-06-23T00:00,11.0,19.4,188.0,10.5,1.2,88.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+New York,United States,2026-06-23T00:00,12.6,14.5,149.0,24.8,1.6,77.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+Berlin,Germany,2026-06-23T00:00,4.4,6.6,118.0,10.6,1.8,52.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+Berlin,Germany,2026-06-23T00:00,4.4,6.6,118.0,10.6,1.8,52.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+Delhi,India,2026-06-23T00:00,73.8,210.5,323.0,52.8,20.4,17.0,0.0,Very High,Avoid intense outdoor activity. Sensitive users should consider staying indoors.
+London,United Kingdom,2026-06-23T00:00,6.7,11.6,119.0,16.5,1.1,58.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+São Paulo,Brazil,2026-06-23T00:00,9.6,9.8,247.0,32.0,8.7,51.0,0.0,High,"Reduce intense outdoor activity, especially for children, elderly people, and users with respiratory conditions."
+Paris,France,2026-06-23T00:00,11.0,19.4,188.0,10.5,1.2,88.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+New York,United States,2026-06-23T00:00,12.6,14.5,149.0,24.8,1.6,77.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
+Berlin,Germany,2026-06-23T00:00,4.4,6.6,118.0,10.6,1.8,52.0,0.0,Moderate,"Outdoor activity is acceptable, but sensitive users should reduce prolonged exposure."
